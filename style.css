@@ -1,0 +1,18 @@
+/* tanda . diawal untuk panggil class */
+.jumbotron{
+	padding-top: 5rem;
+}
+/* tanda # diawal untuk manggil id */
+#contact{
+	background-color: #f0e4d8;
+ }
+#About{
+	background-color: #f0e4d8;
+}
+#footer{
+	background-color: #e8d1c5;
+}
+section{
+	padding-top: 7rem;
+}
+ 
